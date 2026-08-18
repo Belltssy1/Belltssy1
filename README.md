@@ -8,7 +8,7 @@
 
 ---
 
-## ❤️ Sobre mim
+##  Sobre mim
 
 👩‍🎓 Estudante e apaixonada por tecnologia.  
 
@@ -34,7 +34,7 @@
 
 ---
 
-## ❤️ Tecnologias
+## Tecnologias
 
 <div align="center">
 
