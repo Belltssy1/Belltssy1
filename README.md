@@ -1,16 +1,55 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Belltssy1/Belltssy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🍒 Olá, eu sou Isabella! 👩‍💻
 
-Here are some ideas to get you started:
+### ✨ Bem-vindo(a) ao meu cantinho no GitHub ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## ❤️ Sobre mim
+
+👩‍🎓 Estudante e apaixonada por tecnologia.  
+
+💻 Atualmente estou aprendendo e desenvolvendo projetos com:
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML5-7A0019?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-A0002A?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-C2183A?style=for-the-badge&logo=javascript&logoColor=white"/>
+
+</div>
+
+---
+
+## 🍒 Minha jornada
+
+🌱 Atualmente estou aprendendo cada vez mais sobre programação.
+
+🚀 Meu objetivo é evoluir na área da tecnologia e criar projetos incríveis.
+
+💡 Aqui você encontrará alguns dos meus projetos e trabalhos.
+
+---
+
+## ❤️ Tecnologias
+
+<div align="center">
+
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ❤️ Obrigada por visitar meu perfil! ❤️
+
+🍒 *Sempre aprendendo, criando e evoluindo.* 🍒
+
+</div>
