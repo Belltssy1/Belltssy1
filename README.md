@@ -1,9 +1,8 @@
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=101&section=header&reversal=true&fontSize=74&fontColor=B11226&fontAlign=51&fontAlignY=52&rotate=0&stroke=FFFFFF&strokeWidth=2&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=B11226"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=133&section=header&reversal=true&fontSize=74&fontColor=B11226&fontAlign=51&fontAlignY=52&rotate=0&stroke=FFFFFF&strokeWidth=2&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=B11226"  />
 </div>
 
 ###
-
 <div align="center">
 
 # 🍒 Olá, eu sou Isabella! 👩‍💻
