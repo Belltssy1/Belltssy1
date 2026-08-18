@@ -17,10 +17,6 @@
 
 👩‍🎓 Estudante e apaixonada por tecnologia.  
 
-                                                                                      <img data-importer="image" align="left" height="210" src="https://i.pinimg.com/736x/82/e6/62/82e6629d13d2942031a2ed94b1a661b2.jpg"  />
-
-
-###
 💻 Atualmente estou aprendendo e desenvolvendo projetos com:
 
 <div align="center">
